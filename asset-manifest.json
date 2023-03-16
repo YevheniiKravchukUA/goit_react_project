@@ -1,8 +1,16 @@
 {
   "files": {
-    "main.css": "/goit_react_project/static/css/main.bb876a98.css",
-    "main.js": "/goit_react_project/static/js/main.922b762d.js",
+    "main.css": "/goit_react_project/static/css/main.9ed563eb.css",
+    "main.js": "/goit_react_project/static/js/main.3677e291.js",
+    "static/media/desktop-man-retina.png": "/goit_react_project/static/media/desktop-man-retina.b00dc12320b6d3179595.png",
+    "static/media/desktop-woman-retina.png": "/goit_react_project/static/media/desktop-woman-retina.38958ea71edb0252063e.png",
     "static/media/Circe-Bold.woff2": "/goit_react_project/static/media/Circe-Bold.b64357adbf12b109fcf2.woff2",
+    "static/media/tablet-man-retina.png": "/goit_react_project/static/media/tablet-man-retina.47a403f2667f1435a928.png",
+    "static/media/desktop-man.png": "/goit_react_project/static/media/desktop-man.428cdb7a24d012dae811.png",
+    "static/media/tablet-woman-retina.png": "/goit_react_project/static/media/tablet-woman-retina.445999a54e3281fa0956.png",
+    "static/media/desktop-woman.png": "/goit_react_project/static/media/desktop-woman.d928456f07e27eb76aab.png",
+    "static/media/tablet-man.png": "/goit_react_project/static/media/tablet-man.ee808cb4a9a07131b08d.png",
+    "static/media/tablet-woman.png": "/goit_react_project/static/media/tablet-woman.c448a715aae0ddc2719d.png",
     "static/media/currency-table.png": "/goit_react_project/static/media/currency-table.5873239d20b739ffc907.png",
     "static/media/bg-tab-curr.png": "/goit_react_project/static/media/bg-tab-curr.95fd88fa9a5386a95903.png",
     "static/media/currency.svg": "/goit_react_project/static/media/currency.791dd10e840cc22a6f16f1a5ad4d3aef.svg",
@@ -14,11 +22,11 @@
     "static/media/user.svg": "/goit_react_project/static/media/user.f1e05e99f50d21e51a361d7733032eb3.svg",
     "static/media/home.svg": "/goit_react_project/static/media/home.50a21cb44a6a59528fa3bb903958887b.svg",
     "static/media/email.svg": "/goit_react_project/static/media/email.b98c8bcbc969547a44a84df00810a290.svg",
-    "main.bb876a98.css.map": "/goit_react_project/static/css/main.bb876a98.css.map",
-    "main.922b762d.js.map": "/goit_react_project/static/js/main.922b762d.js.map"
+    "main.9ed563eb.css.map": "/goit_react_project/static/css/main.9ed563eb.css.map",
+    "main.3677e291.js.map": "/goit_react_project/static/js/main.3677e291.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb876a98.css",
-    "static/js/main.922b762d.js"
+    "static/css/main.9ed563eb.css",
+    "static/js/main.3677e291.js"
   ]
 }
