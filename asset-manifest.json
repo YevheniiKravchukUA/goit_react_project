@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/goit_react_project/static/css/main.eb196971.css",
-    "main.js": "/goit_react_project/static/js/main.e477c4ce.js",
+    "main.css": "/goit_react_project/static/css/main.d0b8cd4c.css",
+    "main.js": "/goit_react_project/static/js/main.719807ff.js",
+    "static/media/currency-table.png": "/goit_react_project/static/media/currency-table.5873239d20b739ffc907.png",
+    "static/media/bg-tab-curr.png": "/goit_react_project/static/media/bg-tab-curr.95fd88fa9a5386a95903.png",
+    "static/media/currency.svg": "/goit_react_project/static/media/currency.791dd10e840cc22a6f16f1a5ad4d3aef.svg",
     "static/media/main-logo.svg": "/goit_react_project/static/media/main-logo.a50cca1daff933c0bce79d532e282eda.svg",
     "index.html": "/goit_react_project/index.html",
+    "static/media/diagrama.svg": "/goit_react_project/static/media/diagrama.5bebf3adc71db8ad324ee7f3bb1caf58.svg",
     "static/media/exit.svg": "/goit_react_project/static/media/exit.a6d43e7324bb992a08fee9626088c055.svg",
     "static/media/password.svg": "/goit_react_project/static/media/password.cb2bf41ecf2655171804450b24014607.svg",
     "static/media/user.svg": "/goit_react_project/static/media/user.f1e05e99f50d21e51a361d7733032eb3.svg",
+    "static/media/home.svg": "/goit_react_project/static/media/home.50a21cb44a6a59528fa3bb903958887b.svg",
     "static/media/email.svg": "/goit_react_project/static/media/email.b98c8bcbc969547a44a84df00810a290.svg",
-    "main.eb196971.css.map": "/goit_react_project/static/css/main.eb196971.css.map",
-    "main.e477c4ce.js.map": "/goit_react_project/static/js/main.e477c4ce.js.map"
+    "main.d0b8cd4c.css.map": "/goit_react_project/static/css/main.d0b8cd4c.css.map",
+    "main.719807ff.js.map": "/goit_react_project/static/js/main.719807ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb196971.css",
-    "static/js/main.e477c4ce.js"
+    "static/css/main.d0b8cd4c.css",
+    "static/js/main.719807ff.js"
   ]
 }
