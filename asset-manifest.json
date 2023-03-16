@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/goit_react_project/static/css/main.46c8c30a.css",
-    "main.js": "/goit_react_project/static/js/main.85dbd751.js",
+    "main.css": "/goit_react_project/static/css/main.5b2424ed.css",
+    "main.js": "/goit_react_project/static/js/main.51270929.js",
     "static/media/desktop-man-retina.png": "/goit_react_project/static/media/desktop-man-retina.b00dc12320b6d3179595.png",
     "static/media/desktop-woman-retina.png": "/goit_react_project/static/media/desktop-woman-retina.38958ea71edb0252063e.png",
     "static/media/Circe-Bold.woff2": "/goit_react_project/static/media/Circe-Bold.b64357adbf12b109fcf2.woff2",
@@ -17,14 +17,15 @@
     "static/media/main-logo.svg": "/goit_react_project/static/media/main-logo.a50cca1daff933c0bce79d532e282eda.svg",
     "index.html": "/goit_react_project/index.html",
     "static/media/diagrama.svg": "/goit_react_project/static/media/diagrama.5bebf3adc71db8ad324ee7f3bb1caf58.svg",
+    "static/media/edit-02.svg": "/goit_react_project/static/media/edit-02.5b658457a67b4f5dc0df54d2a89b8762.svg",
     "static/media/password.svg": "/goit_react_project/static/media/password.cb2bf41ecf2655171804450b24014607.svg",
     "static/media/home.svg": "/goit_react_project/static/media/home.50a21cb44a6a59528fa3bb903958887b.svg",
     "static/media/email.svg": "/goit_react_project/static/media/email.b98c8bcbc969547a44a84df00810a290.svg",
-    "main.46c8c30a.css.map": "/goit_react_project/static/css/main.46c8c30a.css.map",
-    "main.85dbd751.js.map": "/goit_react_project/static/js/main.85dbd751.js.map"
+    "main.5b2424ed.css.map": "/goit_react_project/static/css/main.5b2424ed.css.map",
+    "main.51270929.js.map": "/goit_react_project/static/js/main.51270929.js.map"
   },
   "entrypoints": [
-    "static/css/main.46c8c30a.css",
-    "static/js/main.85dbd751.js"
+    "static/css/main.5b2424ed.css",
+    "static/js/main.51270929.js"
   ]
 }
