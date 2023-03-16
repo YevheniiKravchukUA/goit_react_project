@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/goit_react_project/static/css/main.52d34782.css",
-    "main.js": "/goit_react_project/static/js/main.01fa0a52.js",
+    "main.js": "/goit_react_project/static/js/main.3a67e8f6.js",
     "static/media/Circe-Bold.woff2": "/goit_react_project/static/media/Circe-Bold.b64357adbf12b109fcf2.woff2",
     "static/media/currency-table.png": "/goit_react_project/static/media/currency-table.5873239d20b739ffc907.png",
     "static/media/bg-tab-curr.png": "/goit_react_project/static/media/bg-tab-curr.95fd88fa9a5386a95903.png",
@@ -15,10 +15,10 @@
     "static/media/home.svg": "/goit_react_project/static/media/home.50a21cb44a6a59528fa3bb903958887b.svg",
     "static/media/email.svg": "/goit_react_project/static/media/email.b98c8bcbc969547a44a84df00810a290.svg",
     "main.52d34782.css.map": "/goit_react_project/static/css/main.52d34782.css.map",
-    "main.01fa0a52.js.map": "/goit_react_project/static/js/main.01fa0a52.js.map"
+    "main.3a67e8f6.js.map": "/goit_react_project/static/js/main.3a67e8f6.js.map"
   },
   "entrypoints": [
     "static/css/main.52d34782.css",
-    "static/js/main.01fa0a52.js"
+    "static/js/main.3a67e8f6.js"
   ]
 }
