@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/goit_react_project/static/css/main.3925a4c9.css",
-    "main.js": "/goit_react_project/static/js/main.b06f83fa.js",
+    "main.css": "/goit_react_project/static/css/main.c7721ff8.css",
+    "main.js": "/goit_react_project/static/js/main.33ea0d76.js",
     "static/media/desktop-man-retina.png": "/goit_react_project/static/media/desktop-man-retina.b00dc12320b6d3179595.png",
     "static/media/desktop-woman-retina.png": "/goit_react_project/static/media/desktop-woman-retina.38958ea71edb0252063e.png",
     "static/media/Circe-Bold.woff2": "/goit_react_project/static/media/Circe-Bold.b64357adbf12b109fcf2.woff2",
+    "static/media/Circe-Regular.woff2": "/goit_react_project/static/media/Circe-Regular.2c54c074533cf5620761.woff2",
     "static/media/tablet-man-retina.png": "/goit_react_project/static/media/tablet-man-retina.47a403f2667f1435a928.png",
     "static/media/desktop-man.png": "/goit_react_project/static/media/desktop-man.428cdb7a24d012dae811.png",
     "static/media/tablet-woman-retina.png": "/goit_react_project/static/media/tablet-woman-retina.445999a54e3281fa0956.png",
@@ -14,17 +15,15 @@
     "static/media/currency-table.png": "/goit_react_project/static/media/currency-table.5873239d20b739ffc907.png",
     "static/media/bg-tab-curr.png": "/goit_react_project/static/media/bg-tab-curr.95fd88fa9a5386a95903.png",
     "static/media/main-logo.svg": "/goit_react_project/static/media/main-logo.a50cca1daff933c0bce79d532e282eda.svg",
-    "static/media/diagrama.svg": "/goit_react_project/static/media/diagrama.88d035c850746203b1e2fe58c26ee5f1.svg",
     "index.html": "/goit_react_project/index.html",
     "static/media/edit-02.svg": "/goit_react_project/static/media/edit-02.5b658457a67b4f5dc0df54d2a89b8762.svg",
     "static/media/password.svg": "/goit_react_project/static/media/password.cb2bf41ecf2655171804450b24014607.svg",
-    "static/media/home.svg": "/goit_react_project/static/media/home.d348a3737c35f5aa794fdfc67b8720bc.svg",
     "static/media/email.svg": "/goit_react_project/static/media/email.b98c8bcbc969547a44a84df00810a290.svg",
-    "main.3925a4c9.css.map": "/goit_react_project/static/css/main.3925a4c9.css.map",
-    "main.b06f83fa.js.map": "/goit_react_project/static/js/main.b06f83fa.js.map"
+    "main.c7721ff8.css.map": "/goit_react_project/static/css/main.c7721ff8.css.map",
+    "main.33ea0d76.js.map": "/goit_react_project/static/js/main.33ea0d76.js.map"
   },
   "entrypoints": [
-    "static/css/main.3925a4c9.css",
-    "static/js/main.b06f83fa.js"
+    "static/css/main.c7721ff8.css",
+    "static/js/main.33ea0d76.js"
   ]
 }
