@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/goit_react_project/static/css/main.dd09ec0b.css",
-    "main.js": "/goit_react_project/static/js/main.1352f49d.js",
+    "main.css": "/goit_react_project/static/css/main.c47c935f.css",
+    "main.js": "/goit_react_project/static/js/main.a594eec8.js",
     "static/media/desktop-man-retina.png": "/goit_react_project/static/media/desktop-man-retina.b00dc12320b6d3179595.png",
     "static/media/desktop-woman-retina.png": "/goit_react_project/static/media/desktop-woman-retina.38958ea71edb0252063e.png",
     "static/media/Circe-Bold.woff2": "/goit_react_project/static/media/Circe-Bold.b64357adbf12b109fcf2.woff2",
@@ -15,21 +15,17 @@
     "static/media/tablet-woman.png": "/goit_react_project/static/media/tablet-woman.c448a715aae0ddc2719d.png",
     "static/media/currency-table.png": "/goit_react_project/static/media/currency-table.5873239d20b739ffc907.png",
     "static/media/bg-tab-curr.png": "/goit_react_project/static/media/bg-tab-curr.95fd88fa9a5386a95903.png",
-    "static/media/notification.svg?s3g3t9": "/goit_react_project/static/media/notification.5d0158671dd860c714c4.svg",
-    "static/media/notification.eot": "/goit_react_project/static/media/notification.3657084dc0419605a91c.eot",
-    "static/media/notification.woff?s3g3t9": "/goit_react_project/static/media/notification.c392cd33d9d9de730f9d.woff",
-    "static/media/notification.ttf?s3g3t9": "/goit_react_project/static/media/notification.c5d9251ea82e42f75381.ttf",
     "static/media/main-logo.svg": "/goit_react_project/static/media/main-logo.a50cca1daff933c0bce79d532e282eda.svg",
     "index.html": "/goit_react_project/index.html",
     "static/media/exit.svg": "/goit_react_project/static/media/exit.a6d43e7324bb992a08fee9626088c055.svg",
     "static/media/edit-02.svg": "/goit_react_project/static/media/edit-02.5b658457a67b4f5dc0df54d2a89b8762.svg",
     "static/media/password.svg": "/goit_react_project/static/media/password.cb2bf41ecf2655171804450b24014607.svg",
     "static/media/email.svg": "/goit_react_project/static/media/email.b98c8bcbc969547a44a84df00810a290.svg",
-    "main.dd09ec0b.css.map": "/goit_react_project/static/css/main.dd09ec0b.css.map",
-    "main.1352f49d.js.map": "/goit_react_project/static/js/main.1352f49d.js.map"
+    "main.c47c935f.css.map": "/goit_react_project/static/css/main.c47c935f.css.map",
+    "main.a594eec8.js.map": "/goit_react_project/static/js/main.a594eec8.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd09ec0b.css",
-    "static/js/main.1352f49d.js"
+    "static/css/main.c47c935f.css",
+    "static/js/main.a594eec8.js"
   ]
 }
