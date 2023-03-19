@@ -132,7 +132,6 @@ export const Modal = ({
         validationSchema={validationSchema}
         initialValues={initialValues}
         onSubmit={handleSubmit}
-        // validateOnBlur={false}
         validateOnChange={false}
       >
         <Form className={style.modal}>
