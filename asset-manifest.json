@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/goit_react_project/static/css/main.75efb506.css",
-    "main.js": "/goit_react_project/static/js/main.7b2c1bc9.js",
+    "main.css": "/goit_react_project/static/css/main.d076145a.css",
+    "main.js": "/goit_react_project/static/js/main.0f76b9f3.js",
     "static/media/desktop-man-retina.png": "/goit_react_project/static/media/desktop-man-retina.b00dc12320b6d3179595.png",
     "static/media/desktop-woman-retina.png": "/goit_react_project/static/media/desktop-woman-retina.38958ea71edb0252063e.png",
     "static/media/Circe-Bold.woff2": "/goit_react_project/static/media/Circe-Bold.b64357adbf12b109fcf2.woff2",
@@ -20,11 +20,11 @@
     "static/media/edit-02.svg": "/goit_react_project/static/media/edit-02.5b658457a67b4f5dc0df54d2a89b8762.svg",
     "static/media/password.svg": "/goit_react_project/static/media/password.cb2bf41ecf2655171804450b24014607.svg",
     "static/media/email.svg": "/goit_react_project/static/media/email.b98c8bcbc969547a44a84df00810a290.svg",
-    "main.75efb506.css.map": "/goit_react_project/static/css/main.75efb506.css.map",
-    "main.7b2c1bc9.js.map": "/goit_react_project/static/js/main.7b2c1bc9.js.map"
+    "main.d076145a.css.map": "/goit_react_project/static/css/main.d076145a.css.map",
+    "main.0f76b9f3.js.map": "/goit_react_project/static/js/main.0f76b9f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.75efb506.css",
-    "static/js/main.7b2c1bc9.js"
+    "static/css/main.d076145a.css",
+    "static/js/main.0f76b9f3.js"
   ]
 }
