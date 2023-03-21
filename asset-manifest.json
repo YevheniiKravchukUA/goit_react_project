@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/goit_react_project/static/css/main.92c5baac.css",
-    "main.js": "/goit_react_project/static/js/main.66b29f6e.js",
+    "main.js": "/goit_react_project/static/js/main.b47b7cd5.js",
     "static/js/256.6457ef72.chunk.js": "/goit_react_project/static/js/256.6457ef72.chunk.js",
     "static/css/823.0db7f245.chunk.css": "/goit_react_project/static/css/823.0db7f245.chunk.css",
     "static/js/823.d0fd3534.chunk.js": "/goit_react_project/static/js/823.d0fd3534.chunk.js",
@@ -10,7 +10,7 @@
     "static/css/594.7e542565.chunk.css": "/goit_react_project/static/css/594.7e542565.chunk.css",
     "static/js/594.cbb3f773.chunk.js": "/goit_react_project/static/js/594.cbb3f773.chunk.js",
     "static/css/905.39fab2f3.chunk.css": "/goit_react_project/static/css/905.39fab2f3.chunk.css",
-    "static/js/905.6035c15c.chunk.js": "/goit_react_project/static/js/905.6035c15c.chunk.js",
+    "static/js/905.f73ae68a.chunk.js": "/goit_react_project/static/js/905.f73ae68a.chunk.js",
     "static/css/988.1879a379.chunk.css": "/goit_react_project/static/css/988.1879a379.chunk.css",
     "static/js/988.6c59be10.chunk.js": "/goit_react_project/static/js/988.6c59be10.chunk.js",
     "static/js/805.2e9192e8.chunk.js": "/goit_react_project/static/js/805.2e9192e8.chunk.js",
@@ -19,6 +19,7 @@
     "static/js/55.5005ed98.chunk.js": "/goit_react_project/static/js/55.5005ed98.chunk.js",
     "static/css/544.d4139ab1.chunk.css": "/goit_react_project/static/css/544.d4139ab1.chunk.css",
     "static/css/870.dfff7b04.chunk.css": "/goit_react_project/static/css/870.dfff7b04.chunk.css",
+    "static/media/noexpense.png": "/goit_react_project/static/media/noexpense.914de168ca8800442f91.png",
     "static/media/desktop-man-retina.png": "/goit_react_project/static/media/desktop-man-retina.b00dc12320b6d3179595.png",
     "static/media/desktop-woman-retina.png": "/goit_react_project/static/media/desktop-woman-retina.38958ea71edb0252063e.png",
     "static/media/Circe-Bold.woff2": "/goit_react_project/static/media/Circe-Bold.b64357adbf12b109fcf2.woff2",
@@ -40,7 +41,7 @@
     "static/media/user.svg": "/goit_react_project/static/media/user.f1e05e99f50d21e51a361d7733032eb3.svg",
     "static/media/email.svg": "/goit_react_project/static/media/email.b98c8bcbc969547a44a84df00810a290.svg",
     "main.92c5baac.css.map": "/goit_react_project/static/css/main.92c5baac.css.map",
-    "main.66b29f6e.js.map": "/goit_react_project/static/js/main.66b29f6e.js.map",
+    "main.b47b7cd5.js.map": "/goit_react_project/static/js/main.b47b7cd5.js.map",
     "256.6457ef72.chunk.js.map": "/goit_react_project/static/js/256.6457ef72.chunk.js.map",
     "823.0db7f245.chunk.css.map": "/goit_react_project/static/css/823.0db7f245.chunk.css.map",
     "823.d0fd3534.chunk.js.map": "/goit_react_project/static/js/823.d0fd3534.chunk.js.map",
@@ -49,7 +50,7 @@
     "594.7e542565.chunk.css.map": "/goit_react_project/static/css/594.7e542565.chunk.css.map",
     "594.cbb3f773.chunk.js.map": "/goit_react_project/static/js/594.cbb3f773.chunk.js.map",
     "905.39fab2f3.chunk.css.map": "/goit_react_project/static/css/905.39fab2f3.chunk.css.map",
-    "905.6035c15c.chunk.js.map": "/goit_react_project/static/js/905.6035c15c.chunk.js.map",
+    "905.f73ae68a.chunk.js.map": "/goit_react_project/static/js/905.f73ae68a.chunk.js.map",
     "988.1879a379.chunk.css.map": "/goit_react_project/static/css/988.1879a379.chunk.css.map",
     "988.6c59be10.chunk.js.map": "/goit_react_project/static/js/988.6c59be10.chunk.js.map",
     "805.2e9192e8.chunk.js.map": "/goit_react_project/static/js/805.2e9192e8.chunk.js.map",
@@ -61,6 +62,6 @@
   },
   "entrypoints": [
     "static/css/main.92c5baac.css",
-    "static/js/main.66b29f6e.js"
+    "static/js/main.b47b7cd5.js"
   ]
 }
